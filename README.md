@@ -1,2 +1,5 @@
 # Money-Maters-A-Personal-Finance-Management-App
-Read the instructions carefully before instaling the app
+Google developer profile:
+https://g.dev/francis10k 
+
+demo vedio link:
